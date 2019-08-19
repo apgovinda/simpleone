@@ -1,0 +1,15 @@
+C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\manifest.yml
+C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\simpleone.deps.json
+C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\simpleone.runtimeconfig.json
+C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\simpleone.runtimeconfig.dev.json
+C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\simpleone.dll
+C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\simpleone.pdb
+C:\my-cf-apps\simpleone\obj\Debug\netcoreapp2.2\simpleone.csprojAssemblyReference.cache
+C:\my-cf-apps\simpleone\obj\Debug\netcoreapp2.2\simpleone.csproj.CoreCompileInputs.cache
+C:\my-cf-apps\simpleone\obj\Debug\netcoreapp2.2\simpleone.RazorAssemblyInfo.cache
+C:\my-cf-apps\simpleone\obj\Debug\netcoreapp2.2\simpleone.RazorAssemblyInfo.cs
+C:\my-cf-apps\simpleone\obj\Debug\netcoreapp2.2\simpleone.AssemblyInfoInputs.cache
+C:\my-cf-apps\simpleone\obj\Debug\netcoreapp2.2\simpleone.AssemblyInfo.cs
+C:\my-cf-apps\simpleone\obj\Debug\netcoreapp2.2\simpleone.RazorTargetAssemblyInfo.cache
+C:\my-cf-apps\simpleone\obj\Debug\netcoreapp2.2\simpleone.dll
+C:\my-cf-apps\simpleone\obj\Debug\netcoreapp2.2\simpleone.pdb
