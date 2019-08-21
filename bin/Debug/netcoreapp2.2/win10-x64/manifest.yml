@@ -2,4 +2,4 @@
 applications:
 - name: simpleone
   stack: windows
-  command: cmd /c .\simpleone --server.urls=http://0.0.0.0:5566
+  command: cmd /c simpleone --server.urls=http://localhost:6000
