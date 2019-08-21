@@ -1,0 +1,6 @@
+Microsoft (R) Build Engine version 16.2.32702+c4012a063 for .NET Core
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Restore completed in 2.46 sec for C:\my-cf-apps\simpleone\simpleone.csproj.
+  simpleone -> C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\win10-x64\simpleone.dll
+  simpleone -> C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\win10-x64\publish\

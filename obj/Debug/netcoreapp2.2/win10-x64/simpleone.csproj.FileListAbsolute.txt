@@ -1,6 +1,7 @@
 C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
 C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
 C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\win10-x64\simpleone.exe
+C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\win10-x64\manifest.yml
 C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\win10-x64\simpleone.deps.json
 C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\win10-x64\simpleone.runtimeconfig.json
 C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\win10-x64\simpleone.runtimeconfig.dev.json
@@ -15,4 +16,3 @@ C:\my-cf-apps\simpleone\obj\Debug\netcoreapp2.2\win10-x64\simpleone.AssemblyInfo
 C:\my-cf-apps\simpleone\obj\Debug\netcoreapp2.2\win10-x64\simpleone.RazorTargetAssemblyInfo.cache
 C:\my-cf-apps\simpleone\obj\Debug\netcoreapp2.2\win10-x64\simpleone.dll
 C:\my-cf-apps\simpleone\obj\Debug\netcoreapp2.2\win10-x64\simpleone.pdb
-C:\my-cf-apps\simpleone\bin\Debug\netcoreapp2.2\win10-x64\manifest.yml

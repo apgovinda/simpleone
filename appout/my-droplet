@@ -1,9 +1,0 @@
-{
-   "errors": [
-      {
-         "detail": "Unknown request",
-         "title": "CF-NotFound",
-         "code": 10000
-      }
-   ]
-}

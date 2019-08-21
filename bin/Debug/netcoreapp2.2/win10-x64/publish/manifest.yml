@@ -1,0 +1,5 @@
+---
+applications:
+- name: simpleone
+  stack: windows
+  command: cmd /c simpleone.exe --server.urls=http://127.0.0.1:5566
